@@ -6,5 +6,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/ascii-rest-aurora-fjord.gif" width="500" alt="Animated ASCII aurora over a fjord" />
+  <img src="./assets/ascii-rest-aurora-fjord.gif" width="100%" alt="Animated ASCII aurora over a fjord" />
 </p>
